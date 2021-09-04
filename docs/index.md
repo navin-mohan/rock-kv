@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RockKV - A Distributed Key-Value Store
+title: What is RockKV?
 nav_order: 1
 description: "Documentation for RockKV project"
 permalink: /
