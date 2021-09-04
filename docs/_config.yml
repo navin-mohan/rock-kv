@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: RockKV - A Distributed Key-Value Store
+title: RockKV
 description: A Distributed Key-Value Store
 baseurl: "/rock-kv"
 url: "https://navin-mohan.github.io"
